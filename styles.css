@@ -24,7 +24,7 @@
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
-
+}
     header {
         background-image: url(oldenzaal.jpeg);
         background-size: cover;
@@ -33,7 +33,6 @@
         font-family: 'Arial', sans-serif;
         color: white;
     }
-
     img {
         float: right;
         width: auto;
@@ -43,7 +42,6 @@
         border: 2px solid black;
         padding: 5px;
     }
-}
 
 #linkergedeelte {
     border: 2px solid black;
